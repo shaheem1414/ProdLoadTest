@@ -14,11 +14,11 @@
 			<g:shipping>
 			<g:price>6.99</g:price>
 			</g:shipping>
-			<g:product_typeShop Gift Roses and Plants Anniversary Rose</g:product_type>
+			<g:product_type>Shop Gift Roses and Plants Anniversary Rose</g:product_type>
 			<g:google_product_category>Home &amp; Garden Plants Indoor and Outdoor Plants Landscaping and Garden Plants.</g:google_product_category>
 			<g:gtin>5060411776500</g:gtin>
 			<g:availability>in stock</g:availability>
-			<g:condition>new</g:condition>
+			<g:condition>new/g:condition>
 			<g:currency>GBP</g:currency>
 			<g:expiration_date>2025-10-09</g:expiration_date>
 		</item>
