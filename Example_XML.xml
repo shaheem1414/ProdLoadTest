@@ -40,12 +40,7 @@
 			<g:condition>new</g:condition>
 			<g:currency>GBP</g:currency>
 			<g:expiration_date>2025-10-14</g:expiration_date>
-		</item>
-			
-			<item>
-			
-			</item>
-		
+		</item>		
 		<item>
 			<g:id>530567</g:id>
 			<title>Rose China Wedding 20th Anniver. 4L pot </title>
@@ -64,6 +59,8 @@
 			<g:condition>new</g:condition>
 			<g:currency>GBP</g:currency>
 			<g:expiration_date>2025-10-14</g:expiration_date>
+		</item>
+		<item>
 		</item>
 	</channel>
 </rss>
