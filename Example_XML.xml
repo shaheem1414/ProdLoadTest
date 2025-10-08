@@ -1,1 +1,26 @@
-<title>highlights</title>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<title>Harkness Roses</title>
+		<description>Bush and Climbing | Potted and Bare Root | Mail Order</description>
+		<link>https://www.roses.co.uk</link>
+		<item>
+			<g:id></g:id>
+			<title></title>
+			<description></description>
+			<link></link>
+			<g:image_link></g:image_link>
+			<g:sale_price></g:sale_price>
+			<g:price></g:price>
+			<g:shipping>
+				<g:price></g:price>
+			</g:shipping>
+			<g:product_type></g:product_type>
+			<g:google_product_category></g:google_product_category>
+			<g:gtin></g:gtin>
+			<g:availability></g:availability>
+			<g:condition></g:condition>
+			<g:currency></g:currency>
+			<g:expiration_date></g:expiration_date>
+		</item>
+	</channel>
+</rss>
