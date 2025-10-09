@@ -63,7 +63,6 @@
 			<g:currency>GBP</g:currency>
 			<g:expiration_date>2025-10-23</g:expiration_date>
 		</item>
-		--> 
 		
 		<item>
 			<g:id>530005</g:id>
@@ -84,7 +83,9 @@
 			<g:currency>GBP</g:currency>
 			<g:expiration_date>2025-10-23</g:expiration_date>
 		</item>
-		<!--
+		
+		--> 
+		
 		<item>
 			<g:id>530006</g:id>
 			<title>Rose Golden 50th Wedding Anniver. 4L pot </title>
@@ -104,6 +105,8 @@
 			<g:currency></g:currency>
 			<g:expiration_date>2025-10-23</g:expiration_date>
 		</item>
+		
+		<!--
 		
 		<item>
 			<g:id>530007</g:id>
