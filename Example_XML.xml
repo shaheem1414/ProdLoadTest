@@ -3,7 +3,7 @@
 		<title>Harkness Roses</title>
 		<description>Bush and Climbing | Potted and Bare Root | Mail Order</description>
 		<link>https://www.roses.co.uk</link>
-		
+
 		<item>
 			<g:id>530002</g:id>
 			<title>Rose Golden 50th Wedding Anniver. 4L pot </title>
@@ -23,7 +23,7 @@
 			<g:currency>GBP</g:currency>
 			<g:expiration_date>2025-10-23</g:expiration_date>
 		</item>
-		
+		<!--
 		<item>
 			<g:id>530003</g:id>
 			<title>Rose Golden 50th Wedding Anniver. 4L pot </title>
@@ -64,7 +64,7 @@
 			<g:expiration_date>2025-10-23</g:expiration_date>
 		</item>
 		
-		<!-- 
+		-->
 		<item>
 			<g:id>530005</g:id>
 			<title>Rose Golden 50th Wedding Anniver. 4L pot </title>
@@ -72,7 +72,7 @@
 			<link>https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG</link>
 			<g:image_link>https://harkness-roses.s3.amazonaws.com/400/530002.jpg</g:image_link>
 			<g:sale_price>24.99 GBP</g:sale_price>
-			<g:price>7.146</g:price>
+			<g:price>7.345</g:price>
 			<g:shipping>
 				<g:price>6.99</g:price>
 			</g:shipping>
@@ -84,9 +84,7 @@
 			<g:currency>GBP</g:currency>
 			<g:expiration_date>2025-10-23</g:expiration_date>
 		</item>
-		
-		-->
-		
+
 		<!--
 		<item>
 			<g:id></g:id>
