@@ -40,7 +40,7 @@
 			<g:gtin>5060411776500</g:gtin>
 			<g:availability>in stock</g:availability>
 			<g:condition>new</g:condition>
-			<g:currency>GBP</g:currency>
+			<g:currency>G</g:currency>
 			<g:expiration_date>2025-10-23</g:expiration_date>
 		</item>
 		
@@ -60,10 +60,10 @@
 			<g:gtin>5060411776500</g:gtin>
 			<g:availability>in stock</g:availability>
 			<g:condition>new</g:condition>
-			<g:currency>GBP</g:currency>
+			<g:currency>GB</g:currency>
 			<g:expiration_date>2025-10-23</g:expiration_date>
 		</item>
-		<!--
+		
 		<item>
 			<g:id>530005</g:id>
 			<title>Rose Golden 50th Wedding Anniver. 4L pot </title>
@@ -80,10 +80,10 @@
 			<g:gtin>5060411776500</g:gtin>
 			<g:availability>in stock</g:availability>
 			<g:condition>new</g:condition>
-			<g:currency>GBP</g:currency>
+			<g:currency>GBPT</g:currency>
 			<g:expiration_date>2025-10-23</g:expiration_date>
 		</item>
-
+<!--
 		<item>
 			<g:id>530006</g:id>
 			<title>Rose Golden 50th Wedding Anniver. 4L pot </title>
