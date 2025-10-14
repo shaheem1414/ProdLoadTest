@@ -3,6 +3,16 @@
 		<title>Harkness Roses</title>
 		<description>Bush and Climbing | Potted and Bare Root | Mail Order</description>
 		<link>https://www.roses.co.uk</link>
+		
+		
+		
+				<!--  Example comment between items -->
+		
+		<item>
+			<g:id>530005 <!--  Example comment within field--> </g:id>
+			<!--  Example comment between fields -->
+		
+		
 		<item>
 			<g:id>531046</g:id>
 			<title>Rose Golden 50th Wedding Anniver. 4L pot </title>
