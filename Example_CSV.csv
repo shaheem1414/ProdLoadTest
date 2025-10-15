@@ -3,7 +3,7 @@
 7771,Same ID 1,2,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU2,VarID2,2,GBP
 7772,Price with 2 DP,2.34,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU2,VarID2,2,GBP
 7773,Sale price as one pound,3,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU3,VarID3,one pound,GBP
-7774,Sale price with comma ,4,GBP,,,,SKU4,VarID4,"4,7",
+7774,Sale price with comma ,4,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU4,VarID4,"4,7",GBP
 7775,Sale Price with comma and 3 numbers,5,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU5,VarID5,"5,678",GBP
 7776,Sale Price with 1 DP,6,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU6,VarID6,6.4,GBP
 7777,Sale Price with 2 DP,7,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU7,VarID7,7.81,GBP
