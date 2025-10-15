@@ -1,9 +1,15 @@
 ﻿ID,Product Title,Price,Price Currency,Product URL,Image URL,In Stock,Product SKU,Variant ID,Sale Price,Sale Price Currency
-7771,"""Voted as ""Best table""""",1,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU1,VarID1,1,GBP
-7772,"""Light, durable and flexible""",2,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU2,VarID2,2,GBP
-7773,"""Best table""",3,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU3,VarID3,3,GBP
+7771,Title 1,1,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU1,VarID1,1,GBP
+7772,Title 2,2,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU2,VarID2,2,GBP
+7773,"""Best worst""",3,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU3,VarID3,3,GBP
+7774,"Light, heavy, blue, green",4,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU4,VarID4,4,GBP
+7775,"""good, bad or ok""",5,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU5,VarID5,5,GBP
+7776,Title 6,6,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU6,VarID6,6,GBP
 ,,,,,,,,,,
-7775,"Light, durable",5,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU5,VarID5,5,GBP
-7776,title 6,6,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,notalink,in stock,SKU6,VarID6,6,GBP
-7777,title 7,7,GBP,not a link,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU7,VarID7,7,GBP
-7778,title 8,8,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,not a link,in stock,SKU8,VarID8,8,GBP
+7778,Title 8,8,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU8,VarID8,8,GBP
+7779,Title 9,9,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU9,VarID9,9,GBP
+7780,"""yes",10,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU10,VarID10,10,GBP
+7781,"no""",11,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU11,VarID11,11,GBP
+7782,", orange",12,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU12,VarID12,12,GBP
+7783,"red,",13,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU13,VarID13,13,GBP
+7784,Title 14,14,GBP,https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG,https://harkness-roses.s3.amazonaws.com/400/530002.jpg,in stock,SKU14,VarID14,14,GBP
