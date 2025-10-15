@@ -84,5 +84,8 @@
 			<g:currency>GBP</g:currency>
 			<g:expiration_date>2025-10-29</g:expiration_date>
 		</item>
+		<!-- TEST COMMENT 4-->
 	</channel>
+	<!-- TEST COMMENT 5-->
 </rss>
+<!-- TEST COMMENT 6-->
