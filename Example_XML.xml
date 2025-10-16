@@ -1,8 +1,5 @@
-<!-- TEST COMMENT 1-->
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
-	<!-- TEST COMMENT 2 -->
 	<channel>
-		<!-- TEST COMMENT 3 -->
 		<title>Harkness Roses</title>
 		<description>Bush and Climbing | Potted and Bare Root | Mail Order</description>
 		<link>https://www.roses.co.uk</link>
@@ -46,7 +43,7 @@
 			<g:expiration_date>2025-10-29</g:expiration_date>
 		</item>
 		<item>
-		<g:id>530004</g:id>
+		<g:id>530005</g:id>
 		<title>Rose Golden 50th Wedding Anniver. 4L pot </title>
 			<description>A gift for loved ones. </description>
 			<link>https://www.roses.co.uk/product/530002/rose-golden-50th-wedding-anniver-4l-pot?Media=PPCHRSGOOG</link>
@@ -84,8 +81,5 @@
 			<g:currency>GBP</g:currency>
 			<g:expiration_date>2025-10-29</g:expiration_date>
 		</item>
-		<!-- TEST COMMENT 4-->
 	</channel>
-	<!-- TEST COMMENT 5-->
 </rss>
-<!-- TEST COMMENT 6-->
